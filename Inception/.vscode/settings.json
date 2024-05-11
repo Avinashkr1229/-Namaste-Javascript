@@ -1,0 +1,15 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.associations": {
+        "*html": "html",
+        "*njk": "html"
+    },
+    "emmet.preferences": {},
+    "emmet.syntaxProfiles": {},
+    "emmet.useInlineCompletions": true
+}
